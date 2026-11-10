@@ -9,26 +9,40 @@ Overall checkpoints
 - [ ] Complete at least one end-to-end data engineering project
 - [ ] Complete interview question practice
 - [ ] Complete mock interviews and final revision
-Progress summary
-Area	Completed	Total
-Root files	0	4
-00-Study-System	0	4
-01-SQL	0	42
-02-Python	0	35
-03-DSA	0	33
-04-Spark-PySpark	0	54
-05-Databricks-Delta-Lake	0	30
-06-Data-Engineering-Fundamentals	0	25
-07-Data-Warehousing-and-Modeling	0	24
-08-Cloud-Azure	0	37
-09-Orchestration-and-Streaming	0	16
-10-Testing-Quality-and-Observability	0	16
-11-Projects	0	21
-12-AI-for-Data-Engineering	0	15
-13-System-Design	0	14
-14-Interview-Questions	0	24
-15-Quick-Revision	0	9
-16-Errors-and-Lessons	0	5
+## Progress Summary
+
+| Area | Completed | Total |
+|---|---:|---:|
+| Root files | 0 | 4 |
+| 00-Study-System | 0 | 4 |
+| 01-SQL | 0 | 42 |
+| 02-Python | 0 | 35 |
+| 03-DSA | 0 | 33 |
+| 04-Spark-PySpark | 0 | 54 |
+| 05-Databricks-Delta-Lake | 0 | 30 |
+| 06-Data-Engineering-Fundamentals | 0 | 25 |
+| 07-Data-Warehousing-and-Modeling | 0 | 24 |
+| 08-Cloud-Azure | 0 | 37 |
+| 09-Orchestration-and-Streaming | 0 | 16 |
+| 10-Testing-Quality-and-Observability | 0 | 16 |
+| 11-Projects | 0 | 21 |
+| 12-AI-for-Data-Engineering | 0 | 15 |
+| 13-System-Design | 0 | 14 |
+| 14-Interview-Questions | 0 | 24 |
+| 15-Quick-Revision | 0 | 9 |
+| 16-Errors-and-Lessons | 0 | 5 |
+| **Total** | **0** | **408** |
+
+### Overall Progress
+
+- [ ] 25% — 102 checkpoints
+- [ ] 50% — 204 checkpoints
+- [ ] 75% — 306 checkpoints
+- [ ] 100% — 408 checkpoints
+
+**Progress formula:**
+
+`(Completed / 408) × 100`
 
 
 Root files
