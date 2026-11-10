@@ -195,7 +195,7 @@ Root files
 - [ ] Readme
 01 Fundamentals
 - [ ] Spark Architecture
-- [ ] Driver Executors Cluster Manager
+- [ok] Driver Executors Cluster Manager
 - [ ] Spark Session And Context
 - [ ] Transformations And Actions
 - [ ] Lazy Evaluation
