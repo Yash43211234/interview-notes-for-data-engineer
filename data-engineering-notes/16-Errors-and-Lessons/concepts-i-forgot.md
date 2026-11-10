@@ -1,0 +1,5 @@
+F.countDistinct("customer")
+F.collect_list("category")
+F.collect_set("category")
+F.first("amount")
+F.last("amount")
